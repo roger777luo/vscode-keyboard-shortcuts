@@ -101,7 +101,11 @@
         { "key": "F2", "caption": "重命名符号" },
         { "key": "Ctrl+Shift+ . / ,", "caption": "替换为下一个/上一个值" },
         { "key": "Ctrl+K Ctrl+X", "caption": "裁剪尾随空格" },
-        { "key": "Ctrl+K M", "caption": "更改文件语言" }
+        { "key": "Ctrl+K M", "caption": "更改文件语言" },
+        { "key": "Alt+←", "caption": "后退上一个编辑处" },
+        { "key": "Alt+→", "caption": "前进下一个编辑处" },
+        { "key": "Ctrl+Z", "caption": "撤销编辑" },
+        { "key": "Ctrl+Y", "caption": "还原编辑" }
       ]
     },
     {
@@ -113,7 +117,8 @@
         { "key": "Ctrl+ 1 / 2 / 3", "caption": "聚焦到第1, 第2或第3编辑器组" },
         { "key": "Ctrl+K Ctrl+ ←/→", "caption": "聚焦到上一个/下一个编辑器组" },
         { "key": "Ctrl+Shift+PgUp / PgDown", "caption": "向左/向右移动编辑器" },
-        { "key": "Ctrl+K ← / →", "caption": "移动活动编辑器组" }
+        { "key": "Ctrl+K ← / →", "caption": "移动活动编辑器组" },
+        { "key": "Ctrl+L", "caption": "整行选取" }
       ]
     },
     {
@@ -152,7 +157,9 @@
         { "key": "Ctrl+Shift+C", "caption": "打开新命令提示符/终端" },
         { "key": "Ctrl+Shift+U", "caption": "显示输出面板" },
         { "key": "Ctrl+Shift+V", "caption": "切换Markdown预览" },
-        { "key": "Ctrl+K V", "caption": "从侧边打开Markdown预览" }
+        { "key": "Ctrl+K V", "caption": "从侧边打开Markdown预览" },
+        { "key": "Ctrl+J", "caption": "显示/隐藏面板" },
+        { "key": "Ctrl+`", "caption": "显示/隐藏终端" }
       ]
     },
     {

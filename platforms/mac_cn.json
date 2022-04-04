@@ -85,7 +85,11 @@
         { "key": "F2", "caption": "重命名符号" },
         { "key": "⇧⌘. / ⇧⌘,", "caption": "替换为下一个/上一个值" },
         { "key": "⌘K ⌘X", "caption": "裁剪尾随空格" },
-        { "key": "⌘K M", "caption": "更改文件语言" }
+        { "key": "⌘K M", "caption": "更改文件语言" },
+        { "key": "⌘+-", "caption": "后退上一个编辑处" },
+        { "key": "⇧+⌘+-", "caption": "前进下一个编辑处" },
+        { "key": "TODO", "caption": "撤销编辑" },
+        { "key": "TODO", "caption": "还原编辑" }
       ]
     },
     {

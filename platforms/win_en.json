@@ -113,7 +113,8 @@
         { "key": "Ctrl+ 1 / 2 / 3", "caption": "Focus into 1st, 2nd or 3rd editor group" },
         { "key": "Ctrl+K Ctrl+ ←/→", "caption": "Focus into previous/next editor group" },
         { "key": "Ctrl+Shift+PgUp / PgDown", "caption": "Move editor left/right" },
-        { "key": "Ctrl+K ← / →", "caption": "Move active editor group" }
+        { "key": "Ctrl+K ← / →", "caption": "Move active editor group" },
+        { "key": "Ctrl+L", "caption": "Whole line selected" }
       ]
     },
     {
